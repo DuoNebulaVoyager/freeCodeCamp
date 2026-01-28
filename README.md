@@ -10,7 +10,7 @@
 
 [freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) charity](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech. Our community has already helped more than 100,000 people ge
 
-Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding chall
+Our full-stack web dev elopment and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding chall
 ## Table of Contents
 
 - [Certificatio
